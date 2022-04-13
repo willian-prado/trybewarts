@@ -4,11 +4,11 @@
 
 **Contexto**
 
-Este é o nosso primeiro projeto em dupla no curso e devemos por em prática nossas habilidades de criação de formulários, responsividade e posicionamento de objetos na tela.
+Este é o nosso primeiro projeto em dupla durante o curso e devemos por em prática nossas habilidades de criação de formulários, responsividade e posicionamento de objetos na tela.
 
 **Objetivo do projeto**
 
-Baseado na obra 'Harry Potter', de J. K. Rowling, nesse trabalho desenvolvemos uma página de formulário da Escola Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre a escola. 
+Inspirado pela obra 'Harry Potter', de J. K. Rowling, nesse trabalho desenvolvemos uma página de formulário da Escola Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre a escola. 
 
 **Principais habilidades desenvolvidas nesse trabalho:**
 
