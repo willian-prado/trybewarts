@@ -1,6 +1,6 @@
 ## Projeto Trybewarts
 
-> Quinto projeto do módulo de Fundamentos do curso de desenvolvimento web da Trybe.
+> Quinto projeto do módulo de Fundamentos do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
@@ -10,7 +10,7 @@ Este é o nosso primeiro projeto em dupla durante o curso e devemos por em prát
 
 Inspirado pela obra 'Harry Potter', de J. K. Rowling, nesse trabalho desenvolvemos uma página de formulário da Escola Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre a escola. 
 
-**Principais habilidades desenvolvidas nesse trabalho:**
+**Principais habilidades desenvolvidas nesse trabalho**
 
   - Criar formulários em HTML;
   - Utilizar CSS Flexbox para criar layouts flexíveis;
@@ -22,7 +22,7 @@ Inspirado pela obra 'Harry Potter', de J. K. Rowling, nesse trabalho desenvolvem
 - <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" title="CSS" align="center" height="35"/> - CSS </a>
 - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" align="center" height="30"/>  - JavaScript</a>
 
-*Projeto desenvolvido em dupla com Vinicius Passos Mossi.*
+*Projeto desenvolvido em dupla com [Vinicius Mossi](https://github.com/vimossi)*.
 
 ---
 
@@ -196,3 +196,7 @@ Pontos importantes:
   * Deve haver um campo com o formato "Matérias: Matérias, Marcadas, Aqui"
   * Deve haver um campo com o formato "Avaliação: NotaAqui"
   * Deve haver um campo com o formato "Observações: Observações aqui"
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
